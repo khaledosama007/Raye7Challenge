@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_message"
+        android:orderInCategory="1"
+        android:menuCategory="secondary"
+        android:title="Message"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Notification"
+        android:icon="@drawable/ic_notification"
+        app:showAsAction="always"/>
+</menu>

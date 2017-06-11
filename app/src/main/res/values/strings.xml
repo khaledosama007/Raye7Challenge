@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Raye7</string>
+    <string name="toolbar_title">Raye7</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_my_car">TAKE MY CAR</string>
+    <string name="request_pickup">REQUEST A PICKUP</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+</resources>
